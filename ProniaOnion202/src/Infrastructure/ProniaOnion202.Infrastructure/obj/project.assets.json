@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\ProniaOnion202.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\sabir\\Desktop\\Ab202 onion\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\ProniaOnion202.Infrastructure.csproj",
       "projectName": "ProniaOnion202.Infrastructure",
-      "projectPath": "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\ProniaOnion202.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\sabir\\Desktop\\Ab202 onion\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\ProniaOnion202.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\sabir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\sabir\\Desktop\\Ab202 onion\\ProniaOnion202\\src\\Infrastructure\\ProniaOnion202.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
